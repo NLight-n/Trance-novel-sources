@@ -94,5 +94,18 @@
     "recipeUrl": "recipes/boxnovel.json",
     "isNsfw": false,
     "description": "Standard web novel aggregator using dedicated chapter headers and reading content."
+  },
+  {
+    "id": "novgo",
+    "name": "NOVGO",
+    "domain": "novgo.net",
+    "version": 1,
+    "lang": "en",
+    "author": "Trance Community",
+    "iconUrl": "",
+    "recipeUrl": "recipes/novgo.json",
+    "isNsfw": false,
+    "description": "Fast online light novel and web novel library with clean chapter reader."
   }
 ]
+
