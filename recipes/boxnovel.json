@@ -1,0 +1,19 @@
+{
+  "id": "boxnovel",
+  "name": "BoxNovel",
+  "domain": "boxnovel.com",
+  "version": 1,
+  "novelTitleSelector": "div.post-title h1, h1",
+  "chapterTitleSelector": "h1.entry-title, h1#chapter-heading",
+  "titleSelector": "h1",
+  "chapterContentSelector": "div.reading-content, .entry-content",
+  "chapterListSelector": "li.wp-manga-chapter a",
+  "nextChapterSelector": "a.btn.next_page",
+  "prevChapterSelector": "a.btn.prev_page",
+  "authorSelector": "div.author-content a",
+  "coverSelector": "div.summary_image img",
+  "descriptionSelector": "div.summary__content",
+  "tagsSelector": "div.genres-content a",
+  "viewportMode": "MOBILE",
+  "requiresJavascript": false
+}

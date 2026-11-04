@@ -1,0 +1,19 @@
+{
+  "id": "novelupdates",
+  "name": "Novel Updates",
+  "domain": "novelupdates.com",
+  "version": 1,
+  "novelTitleSelector": "div.seriestitlenew, h1",
+  "chapterTitleSelector": "h1",
+  "titleSelector": "h1",
+  "chapterContentSelector": "div#post-content, .entry-content",
+  "chapterListSelector": "div.sp-body a, a.chapter-link",
+  "nextChapterSelector": "a.next",
+  "prevChapterSelector": "a.prev",
+  "authorSelector": "a#authtag, .author",
+  "coverSelector": "div.seriesimg img",
+  "descriptionSelector": "div#editdescription",
+  "tagsSelector": "div#showtags a",
+  "viewportMode": "MOBILE",
+  "requiresJavascript": false
+}

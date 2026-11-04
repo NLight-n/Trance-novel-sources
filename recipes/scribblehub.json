@@ -1,0 +1,19 @@
+{
+  "id": "scribblehub",
+  "name": "Scribble Hub",
+  "domain": "scribblehub.com",
+  "version": 1,
+  "novelTitleSelector": "div.fic_title, h1",
+  "chapterTitleSelector": "div.chapter-title, h1",
+  "titleSelector": "h1",
+  "chapterContentSelector": "div#chp_raw, div.chp_raw, .chapter-content",
+  "chapterListSelector": "ul.toc li a, .toc_w a",
+  "nextChapterSelector": "a.btn-next",
+  "prevChapterSelector": "a.btn-prev",
+  "authorSelector": "span.auth_name_fic a",
+  "coverSelector": "div.fic_image img",
+  "descriptionSelector": "div.wi_fic_desc",
+  "tagsSelector": ".stag, .wi_fic_tags a",
+  "viewportMode": "MOBILE",
+  "requiresJavascript": false
+}

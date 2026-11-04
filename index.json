@@ -1,0 +1,98 @@
+[
+  {
+    "id": "royalroad",
+    "name": "Royal Road",
+    "domain": "royalroad.com",
+    "version": 1,
+    "lang": "en",
+    "author": "Trance Community",
+    "iconUrl": "",
+    "recipeUrl": "recipes/royalroad.json",
+    "isNsfw": false,
+    "description": "Popular web fiction platform featuring clean typography and responsive chapter lists."
+  },
+  {
+    "id": "scribblehub",
+    "name": "Scribble Hub",
+    "domain": "scribblehub.com",
+    "version": 1,
+    "lang": "en",
+    "author": "Trance Community",
+    "iconUrl": "",
+    "recipeUrl": "recipes/scribblehub.json",
+    "isNsfw": false,
+    "description": "Community web novel portal with structured chapter index and raw reading pane."
+  },
+  {
+    "id": "novelupdates",
+    "name": "Novel Updates",
+    "domain": "novelupdates.com",
+    "version": 1,
+    "lang": "en",
+    "author": "Trance Community",
+    "iconUrl": "",
+    "recipeUrl": "recipes/novelupdates.json",
+    "isNsfw": false,
+    "description": "Leading Asian web novel directory, translator hub, and chapter release index."
+  },
+  {
+    "id": "wuxiaworld",
+    "name": "Wuxiaworld",
+    "domain": "wuxiaworld.com",
+    "version": 1,
+    "lang": "en",
+    "author": "Trance Community",
+    "iconUrl": "",
+    "recipeUrl": "recipes/wuxiaworld.json",
+    "isNsfw": false,
+    "description": "Major English translation platform for Chinese and Korean fantasy web novels."
+  },
+  {
+    "id": "novelbin",
+    "name": "Novel Bin",
+    "domain": "novelbin.me",
+    "version": 1,
+    "lang": "en",
+    "author": "Trance Community",
+    "iconUrl": "",
+    "recipeUrl": "recipes/novelbin.json",
+    "isNsfw": false,
+    "description": "Large aggregator library for light novels and web novels with fast navigation."
+  },
+  {
+    "id": "lightnovelworld",
+    "name": "Light Novel World",
+    "domain": "lightnovelworld.co",
+    "version": 1,
+    "lang": "en",
+    "author": "Trance Community",
+    "iconUrl": "",
+    "recipeUrl": "recipes/lightnovelworld.json",
+    "isNsfw": false,
+    "description": "Clean modern reader layout with dedicated container and pagination controls."
+  },
+  {
+    "id": "dreamy_translations",
+    "name": "Dreamy Translations",
+    "domain": "dreamy-translations.com",
+    "version": 1,
+    "lang": "en",
+    "author": "Trance Community",
+    "iconUrl": "",
+    "recipeUrl": "recipes/dreamy_translations.json",
+    "isNsfw": false,
+    "description": "Translation blog utilizing repeated links and semantic article containers."
+  },
+  {
+    "id": "boxnovel",
+    "name": "BoxNovel",
+    "domain": "boxnovel.com",
+    "version": 1,
+    "lang": "en",
+    "author": "Trance Community",
+    "iconUrl": "",
+    "recipeUrl": "recipes/boxnovel.json",
+    "isNsfw": false,
+    "description": "Standard web novel aggregator using dedicated chapter headers and reading content."
+  }
+]

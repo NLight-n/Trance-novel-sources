@@ -1,0 +1,19 @@
+{
+  "id": "royalroad",
+  "name": "Royal Road",
+  "domain": "royalroad.com",
+  "version": 1,
+  "novelTitleSelector": "div.fic-header h1, h1",
+  "chapterTitleSelector": "h1, h2.font-white",
+  "titleSelector": "h1",
+  "chapterContentSelector": "div.chapter-inner.chapter-content, div.chapter-inner, .chapter-content",
+  "chapterListSelector": "tbody tr a[href*='/chapter/'], #chapters tr td:first-child a, #chapters a[href*='/chapter/']",
+  "nextChapterSelector": "a.nav-next",
+  "prevChapterSelector": "a.nav-previous",
+  "authorSelector": "h4 a[href*='/profile/'], .author-name a",
+  "coverSelector": "img.thumbnail, .cover-art-container img",
+  "descriptionSelector": "div.description, div.synopsis",
+  "tagsSelector": "span.tags a, .tag",
+  "viewportMode": "MOBILE",
+  "requiresJavascript": false
+}

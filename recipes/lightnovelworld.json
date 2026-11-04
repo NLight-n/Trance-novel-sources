@@ -1,0 +1,19 @@
+{
+  "id": "lightnovelworld",
+  "name": "Light Novel World",
+  "domain": "lightnovelworld.co",
+  "version": 1,
+  "novelTitleSelector": "h1.novel-title, h1",
+  "chapterTitleSelector": ".chapter-title, h2",
+  "titleSelector": "h2",
+  "chapterContentSelector": "#chapter-container, .chapter-content",
+  "chapterListSelector": "ul.chapter-list li a, .chapternav a",
+  "nextChapterSelector": "a.nextchap",
+  "prevChapterSelector": "a.prevchap",
+  "authorSelector": "span.author a",
+  "coverSelector": "div.cover img",
+  "descriptionSelector": "div.summary .content",
+  "tagsSelector": "div.categories a, .tags a",
+  "viewportMode": "MOBILE",
+  "requiresJavascript": false
+}

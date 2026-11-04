@@ -1,0 +1,19 @@
+{
+  "id": "wuxiaworld",
+  "name": "Wuxiaworld",
+  "domain": "wuxiaworld.com",
+  "version": 1,
+  "novelTitleSelector": "h1.font-bold, h1",
+  "chapterTitleSelector": "h2.font-bold, h1",
+  "titleSelector": "h1",
+  "chapterContentSelector": "div.chapter-content, .p-15, div#chapter-content",
+  "chapterListSelector": "div.chapter-item a, ul.chapters a",
+  "nextChapterSelector": "a[rel='next'], a.next-chapter",
+  "prevChapterSelector": "a[rel='prev'], a.prev-chapter",
+  "authorSelector": "div.author-info a, .author",
+  "coverSelector": "div.novel-cover img, img.cover-image",
+  "descriptionSelector": "div.synopsis, div.novel-body",
+  "tagsSelector": "div.tags a",
+  "viewportMode": "MOBILE",
+  "requiresJavascript": false
+}

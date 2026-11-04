@@ -1,0 +1,19 @@
+{
+  "id": "novelbin",
+  "name": "Novel Bin",
+  "domain": "novelbin.me",
+  "version": 1,
+  "novelTitleSelector": "h3.title, h1",
+  "chapterTitleSelector": "a.chr-title, h2, h1",
+  "titleSelector": "h1",
+  "chapterContentSelector": "div#chr-content, div.chr-c",
+  "chapterListSelector": "ul.list-chapter li a, .panel-chapter a",
+  "nextChapterSelector": "a#next_chap",
+  "prevChapterSelector": "a#prev_chap",
+  "authorSelector": "ul.info-meta li:first-child a",
+  "coverSelector": "div.book img",
+  "descriptionSelector": "div.desc-text",
+  "tagsSelector": "div.tags a, .tag",
+  "viewportMode": "MOBILE",
+  "requiresJavascript": false
+}

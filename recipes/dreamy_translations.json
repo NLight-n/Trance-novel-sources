@@ -1,0 +1,18 @@
+{
+  "id": "dreamy_translations",
+  "name": "Dreamy Translations",
+  "domain": "dreamy-translations.com",
+  "version": 1,
+  "novelTitleSelector": "meta[property='og:title'], h1",
+  "chapterTitleSelector": "article h1, h1",
+  "titleSelector": "h1",
+  "chapterContentSelector": "article.chapter-content, article.prose, .entry-content",
+  "chapterListSelector": "a[data-chapter-index], .chapter-list a",
+  "nextChapterSelector": "a.next-chapter, a[rel='next']",
+  "prevChapterSelector": "a.prev-chapter, a[rel='prev']",
+  "authorSelector": "meta[name='author']",
+  "coverSelector": "meta[property='og:image'], img[src*='covers']",
+  "descriptionSelector": "meta[property='og:description']",
+  "viewportMode": "MOBILE",
+  "requiresJavascript": false
+}
