@@ -2,7 +2,7 @@
   "id": "novelupdates",
   "name": "Novel Updates",
   "domain": "novelupdates.com",
-  "version": 1,
+  "version": 2,
   "novelTitleSelector": "div.seriestitlenew, h1",
   "chapterTitleSelector": "h1",
   "titleSelector": "h1",
@@ -15,5 +15,8 @@
   "descriptionSelector": "div#editdescription",
   "tagsSelector": "div#showtags a",
   "viewportMode": "MOBILE",
-  "requiresJavascript": false
+  "requiresJavascript": true,
+  "chapterListStrategy": "NUMBERED_PAGES",
+  "chapterListContinuationSelector": ".digg_pagination",
+  "chapterListMaxPages": 100
 }

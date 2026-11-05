@@ -2,7 +2,7 @@
   "id": "scribblehub",
   "name": "Scribble Hub",
   "domain": "scribblehub.com",
-  "version": 1,
+  "version": 2,
   "novelTitleSelector": "div.fic_title, h1",
   "chapterTitleSelector": "div.chapter-title, h1",
   "titleSelector": "h1",
@@ -15,5 +15,8 @@
   "descriptionSelector": "div.wi_fic_desc",
   "tagsSelector": ".stag, .wi_fic_tags a",
   "viewportMode": "MOBILE",
-  "requiresJavascript": false
+  "requiresJavascript": true,
+  "chapterListStrategy": "NUMBERED_PAGES",
+  "chapterListContinuationSelector": "#chp_pagination, .pagination",
+  "chapterListMaxPages": 100
 }

@@ -2,7 +2,7 @@
   "id": "novgo",
   "name": "NOVGO",
   "domain": "novgo.net",
-  "version": 1,
+  "version": 2,
   "novelTitleSelector": ".m-desc h1.tit, .m-info .g-tit .tit, h1.tit",
   "chapterTitleSelector": "h1.chapter .chapter-title, .top h1.chapter, h1.chapter",
   "titleSelector": "h1.tit, h1.chapter",
@@ -15,5 +15,8 @@
   "descriptionSelector": "#novel-summary-inner, .m-desc .txt .inner, .m-desc .txt",
   "tagsSelector": ".m-imgtxt a[href*='/genre/'], a[href*='/genre/']",
   "viewportMode": "MOBILE",
-  "requiresJavascript": false
+  "requiresJavascript": true,
+  "chapterListStrategy": "PAGINATION_NEXT",
+  "chapterListContinuationSelector": "#barcon a#nextBtn[href], a#nextBtn[href], #barcon",
+  "chapterListMaxPages": 100
 }
